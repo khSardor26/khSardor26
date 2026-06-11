@@ -39,11 +39,13 @@ Working on enterprise-grade applications, cloud infrastructure, and scalable bac
 🌍 IELTS Academic: **7.0**
 
 ---
+
 ## LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/khSardor?theme=dark&font=Fira+Code&ext=heatmap"/>
 </p>
+
 ---
 
 ## GitHub Stats
@@ -51,9 +53,3 @@ Working on enterprise-grade applications, cloud infrastructure, and scalable bac
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khSardor26&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-### Connect With Me
-
-Always open to software engineering opportunities, interesting projects, and technical discussions.
