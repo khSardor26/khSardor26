@@ -25,8 +25,8 @@ Currently working as a **Software Engineering Intern at Vention**, where I contr
 ## Technical Skills
 
 ### Backend
-- Java
-- Spring Boot
+- Java / C#
+- Spring Boot / .NET
 - Python
 - REST APIs
 - JWT Authentication
@@ -43,12 +43,6 @@ Currently working as a **Software Engineering Intern at Vention**, where I contr
 - Cloudflare R2
 - CI/CD
 
-### Other
-- C#
-- .NET
-- HTML
-- CSS
-
 ---
 
 ## Professional Experience
@@ -57,22 +51,6 @@ Currently working as a **Software Engineering Intern at Vention**, where I contr
 *May 2026 – Present*
 
 Working on enterprise-grade applications, cloud infrastructure, and scalable backend systems while applying clean architecture and modern engineering practices.
-
-### Junior Software Engineer — Imaan Tech
-*Dec 2025 – May 2026*
-
-- Developed a video streaming platform for educational content
-- Built REST APIs for authentication and media delivery
-- Deployed AI inference workloads on CPU infrastructure
-- Integrated Cloudflare R2 and PostgreSQL storage solutions
-
-### Frontend Developer Intern — UzbekVoice.ai
-*Mar 2025 – May 2025*
-
-- Developed responsive user interfaces
-- Improved user experience and frontend performance
-
----
 
 ## Education & Certifications
 
