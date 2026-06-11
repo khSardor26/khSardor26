@@ -22,24 +22,6 @@ Currently working as a **Software Engineering Intern at Vention**, where I contr
 
 ---
 
-## Professional Experience
-
-### Software Engineering Intern — Vention
-*May 2026 – Present*
-
-Working on enterprise-grade applications, cloud infrastructure, and scalable backend systems while applying clean architecture and modern engineering practices.
-
-## Education & Certifications
-
-🎓 Computer Science & Software Engineering  
-**Inha University in Tashkent** (2024–2028)
-
-☁️ Microsoft Certified: **Azure Fundamentals (AZ-900)**
-
-🌍 IELTS Academic: **7.0**
-
----
-
 ## LeetCode
 
 <p align="center">
