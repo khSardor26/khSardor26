@@ -8,7 +8,7 @@ Currently working as a **Software Engineering Intern at Vention**, where I contr
 
 ## What I Do
 
-→ Backend Development with Java & Spring Boot
+→ Backend Development 
 
 → REST API Design & Implementation
 
@@ -19,29 +19,6 @@ Currently working as a **Software Engineering Intern at Vention**, where I contr
 → AI & LLM Integration
 
 → Docker & Deployment Automation
-
----
-
-## Technical Skills
-
-### Backend
-- Java / C#
-- Spring Boot / .NET
-- Python
-- REST APIs
-- JWT Authentication
-
-### Databases
-- PostgreSQL
-- SQL
-
-### Cloud & DevOps
-- Azure
-- AWS
-- Docker
-- Linux
-- Cloudflare R2
-- CI/CD
 
 ---
 
@@ -62,34 +39,11 @@ Working on enterprise-grade applications, cloud infrastructure, and scalable bac
 🌍 IELTS Academic: **7.0**
 
 ---
-
-## Featured Projects
-
-### bankManagementAPI
-Secure Spring Boot banking API with JWT authentication, card management, deposits, transfers, and Swagger documentation.
-
-### the_STANDARD_blueprint
-Clean Architecture .NET Web API starter template with testing layers and best practices.
-
-### JdbcLogAnalyzer
-Java-based log analysis tool for parsing structured server logs.
-
-### docker_kubernetes_notes
-Practical Docker & Kubernetes learning repository.
-
----
-
 ## LeetCode
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/khSardor?theme=dark&font=Fira+Code&ext=heatmap"/>
 </p>
-
-- 185+ Problems Solved
-- 147-Day Maximum Streak
-- 768+ Submissions
-- Strong focus on Data Structures & Algorithms
-
 ---
 
 ## GitHub Stats
@@ -101,11 +55,5 @@ Practical Docker & Kubernetes learning repository.
 ---
 
 ### Connect With Me
-
-- LinkedIn
-- GitHub
-- LeetCode
-
-📍 Tashkent, Uzbekistan
 
 Always open to software engineering opportunities, interesting projects, and technical discussions.
