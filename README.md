@@ -1,4 +1,4 @@
-# Hi, I'm Sardorbek 👋
+# Hi, I'm Sardorbek 😄
 Software Engineer focused on building scalable APIs, cloud-native applications, and AI-powered solutions.
 ## What I Do
 
