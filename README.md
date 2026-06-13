@@ -18,7 +18,8 @@ Currently working as a **Software Engineering Intern at Vention**, where I contr
 
 → AI & LLM Integration
 
-→ Docker & Deployment Automation
+→ Docker & Deployment Automation (CI / CD)
+
 
 ---
 
