@@ -28,11 +28,3 @@ Currently working as a **Software Engineering Intern at Vention**, where I contr
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/khSardor?theme=dark&font=Fira+Code&ext=heatmap"/>
 </p>
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khSardor26&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
