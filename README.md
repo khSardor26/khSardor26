@@ -1,6 +1,5 @@
 # Hi, I'm Sardorbek 👋
-
-Backend Software Engineer focused on building scalable APIs, cloud-native applications, and AI-powered solutions.
+Software Engineer focused on building scalable APIs, cloud-native applications, and AI-powered solutions.
 
 Currently working as a **Software Engineering Intern at Vention**, where I contribute to enterprise applications and gain hands-on experience with modern software architecture, cloud infrastructure, and production systems.
 
