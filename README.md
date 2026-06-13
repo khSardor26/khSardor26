@@ -15,7 +15,6 @@ Software Engineer focused on building scalable APIs, cloud-native applications, 
 
 → Docker & Deployment Automation (CI / CD)
 
-
 ---
 
 ## LeetCode
@@ -23,3 +22,4 @@ Software Engineer focused on building scalable APIs, cloud-native applications, 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/khSardor?theme=dark&font=Fira+Code&ext=heatmap"/>
 </p>
+Feel free to reach me 😄
