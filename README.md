@@ -16,7 +16,6 @@ knowledge.
 → AI & LLM Integration
 
 → Docker & Deployment Automation (CI / CD)
-
 ##
 Feel free to reach me 😄  
 [LinkedIn](https://www.linkedin.com/in/sardorbek-khamrakulov-a27531353) | [Telegram](https://t.me/khamrakulov099)
