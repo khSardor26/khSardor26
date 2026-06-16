@@ -1,5 +1,8 @@
-# Hi, I'm Sardorbek 😄
-Software Engineer focused on building scalable APIs, cloud-native applications, and AI-powered solutions.
+# Hi, I'm Sardorbek 👋
+3rd year Computer Science student with hands-on commercial experience in backend development, RESTful services,
+and AI-integrated systems. Passionate about building scalable, high-quality solutions and contributing to technological
+growth in Uzbekistan. Results-oriented problem solver with strong teamwork skills, always eager to learn and share
+knowledge.
 ## What I Do
 
 → Backend Development 
@@ -15,3 +18,5 @@ Software Engineer focused on building scalable APIs, cloud-native applications, 
 → Docker & Deployment Automation (CI / CD)
 
 Feel free to reach me 😄
+- [LinkedIn](https://www.linkedin.com/in/sardorbek-khamrakulov-a27531353)
+- [Telegram](https://t.me/@khamrakulov099)
