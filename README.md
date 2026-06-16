@@ -3,7 +3,6 @@
 and AI-integrated systems. Passionate about building scalable, high-quality solutions and contributing to technological
 growth in Uzbekistan. Results-oriented problem solver with strong teamwork skills, always eager to learn and share
 knowledge.
-
 ## What I Do
 → Backend Development 
 → REST API Design & Implementation
@@ -11,9 +10,6 @@ knowledge.
 → Database Design & Optimization
 → AI & LLM Integration
 → Docker & Deployment Automation (CI / CD)
-
-## Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/sardorbek-khamrakulov-a27531353)
-- [Telegram](https://t.me/khamrakulov099)
-
 Feel free to reach me 😄
+- [LinkedIn](https://www.linkedin.com/in/sardorbek-khamrakulov-a27531353)
+- [Telegram](https://t.me/@khamrakulov099)
